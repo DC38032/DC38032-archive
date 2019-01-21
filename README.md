@@ -17,6 +17,7 @@ Archive of DC38032 meetups and other activities
 
 ## DC38032-5 28/09/2018
 * Bohdan Lukin (SoftServe, Security Engineer) - "Breaking the System. BlackHat strategy" 
-* Danial Zhuravchak (UD, SOC Lead) - "Catch Fraud if You Can" 
+* Danial Zhuravchak (UD, SOC Lead) - "Catch Fraud if You Can"
+* Serhii Korolenko (Ciklum, Security Engineer) - XSS workshop
 
 To be continued ...
