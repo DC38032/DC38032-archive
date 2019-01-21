@@ -16,7 +16,7 @@ Archive of DC38032 meetups and other activities
 * Flare-On/HTB/other CTF night. And drinking. 
 
 ## DC38032-5 28/09/2018
-* Bohdan Lukin - "Breaking the System. BlackHat strategy" 
-* Danial Zhuravchak - "Catch Fraud if You Can" 
+* Bohdan Lukin (SoftServe, Security Engineer) - "Breaking the System. BlackHat strategy" 
+* Danial Zhuravchak (UD, SOC Lead) - "Catch Fraud if You Can" 
 
 To be continued ...
