@@ -20,4 +20,8 @@ Archive of DC38032 meetups and other activities
 * Danial Zhuravchak (UD, SOC Lead) - "Catch Fraud if You Can"
 * Serhii Korolenko (Ciklum, Security Engineer) - XSS workshop
 
+## DC38032-6 02/11/2018
+* Oksana Safronova (UD, Security analyst) - "The rise and fall(?) of Emotet"
+* Vitaliy Mechytashvili (UD, Malware analyst) - "Mac Malware. Dynamic analysis"
+
 To be continued ...
