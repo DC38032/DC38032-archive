@@ -5,7 +5,7 @@ Archive of DC38032 meetups and other activities
 * "Install Qubes OS workstation suicide mission" party
 * "Sneakers" movie night
 
-## DC38032-3  08/06/2018
+## DC38032-3  11/05/2018
 * Danial Zhuravchak and Oksana Safronova (UD, Security Analysts) - "Hunting for a needle in a haysack" Splunk workshop
 
 ## DC38032-3  08/06/2018
