@@ -24,4 +24,8 @@ Archive of DC38032 meetups and other activities
 * Oksana Safronova (UD, Security analyst) - "The rise and fall(?) of Emotet"
 * Vitaliy Mechytashvili (UD, Malware analyst) - "Mac Malware. Dynamic analysis"
 
+## DC38032-7 05/04/2010
+* Ivan Rakanskiy (UD, Security Engineer) - "DDoS mitigation. Tips and tricks”
+* Oleh Levytskyi (UD, Security analyst) - "OSX forensics and antiforensics (tips and tricks)”
+
 To be continued ...
